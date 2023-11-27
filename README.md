@@ -6,7 +6,7 @@ This repository houses a predictive modeling project aimed at identifying diabet
 
 Methods Used
 
-The predictive model is built using various machine learning algorithms, with a primary emphasis on the J48 decision tree algorithm. Supervised training is employed to train the model on a dataset containing measurements from 768 female subjects aged 21 and above. The Weka explorer software is utilized for data preprocessing, exploration, and model development.
+The predictive model is built using various machine learning algorithms, with a primary emphasis on different types of decision tree algorithms. Supervised training is employed to train the model on a dataset containing measurements from 768 female subjects aged 21 and above. The Weka explorer software is utilized for data preprocessing, exploration, and model development.
 
 Model's Purpose
 
